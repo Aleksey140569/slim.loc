@@ -8,7 +8,9 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
+    <title>
+      My Blog
+    </title>
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -22,10 +24,6 @@
         </button>
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
-              <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">
-                  Home
-                </a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">
@@ -37,15 +35,89 @@
                   About
                 </a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">
-                  Disabled
-                </a>
-              </li>
             </ul>
           </div>
         </div>
       </nav>
+      <div class="container">
+        <div class="row justify-content-start">
+          <h1 class="text-center mb-3 mt-3">
+            Welcome to my blog!
+          </h1>
+          <div class="card m-3 p-3" style="width: 18rem;">
+            <img src="https://dummyimage.com/300x200/4a74e0/ffffff&text=Изображение+временно+отсутвует" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">
+                Карточка с растянутой ссылкой
+              </h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up the bulk of the card's content.
+              </p>
+              <a href="#" class="btn btn-primary stretched-link">Go somewhere</a>
+            </div>
+          </div>
+          <div class="card m-3 p-3" style="width: 18rem;">
+            <img src="https://dummyimage.com/300x200/4a74e0/ffffff&text=Изображение+временно+отсутвует" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">
+                Карточка с растянутой ссылкой
+              </h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up the bulk of the card's content.
+              </p>
+              <a href="#" class="btn btn-primary stretched-link">Go somewhere</a>
+            </div>
+          </div>
+          <div class="card m-3 p-3" style="width: 18rem;">
+            <img src="https://dummyimage.com/300x200/4a74e0/ffffff&text=Изображение+временно+отсутвует" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">
+                Карточка с растянутой ссылкой
+              </h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up the bulk of the card's content.
+              </p>
+              <a href="#" class="btn btn-primary stretched-link">Go somewhere</a>
+            </div>
+          </div>
+          <div class="card m-3 p-3" style="width: 18rem;">
+            <img src="https://dummyimage.com/300x200/4a74e0/ffffff&text=Изображение+временно+отсутвует" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">
+                Карточка с растянутой ссылкой
+              </h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up the bulk of the card's content.
+              </p>
+              <a href="#" class="btn btn-primary stretched-link">Go somewhere</a>
+            </div>
+          </div>
+          <div class="card m-3 p-3" style="width: 18rem;">
+            <img src="https://dummyimage.com/300x200/4a74e0/ffffff&text=Изображение+временно+отсутвует" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">
+                Карточка с растянутой ссылкой
+              </h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up the bulk of the card's content.
+              </p>
+              <a href="#" class="btn btn-primary stretched-link">Go somewhere</a>
+            </div>
+          </div>
+          <div class="card m-3 p-3" style="width: 18rem;">
+            <img src="https://dummyimage.com/300x200/4a74e0/ffffff&text=Изображение+временно+отсутвует" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">
+                Карточка с растянутой ссылкой
+              </h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up the bulk of the card's content.
+              </p>
+              <a href="#" class="btn btn-primary stretched-link">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+      </div>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
